@@ -41,4 +41,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   React
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-  Redux</p></div>
+  Redux
+ <a href="https://reactnative.dev/docs/getting-started" target="_blank" rel="noreferrer"> <img src="https://www.bing.com/th?id=OIP.IYKaDxaoIwiMy96ORPtUhQAAAA&w=90&h=100&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" alt="react native" width="40" height="40"/> </a>
+  React Native
+ </p></div>
