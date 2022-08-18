@@ -9,8 +9,8 @@
 
 <h3 align="center">Conéctate conmigo:</h3>
 <p align="center">
-<a href=" https://www.lifewire.com/send-web-page-link-hotmail-1174274" target="blank"><img align= "center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1280px-Gmail_Icon_%282013-2020%29.svg.png" alt="" width="40" height="40" </a> 
- <a href="https://linkedin.com/in/guillermollugdar-dev" target="blank"><img align= "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" width="40" height="40" </a> 
+<a  href=»mailto:prueba@prueba.com» ><img align= "center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1280px-Gmail_Icon_%282013-2020%29.svg.png" alt="" width="40" height="40" />  </a> 
+ <a href="https://linkedin.com/in/guillermollugdar-dev" target="blank"><img align= "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" width="40" height="40" /></a> 
 </p>
 
 <h3 align="left">herramientas:</h3>
