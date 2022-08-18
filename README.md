@@ -21,7 +21,7 @@
   CSS3
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.fASRfi5Gh3iNaJ5ejpxRmgHaC9?w=283&h=139&c=7&r=0&o=5&pid=1.7" alt="express" width="40" height="40"/></a>
   Express
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.BLvUKx6QMIOl5MSPs8tgzwAAAA?w=131&h=150&c=7&r=0&o=5&pid=1.7" alt="git" width="40" height="40"/></a>
   GIT
   <a href="https://heroku.com" target="_blank" rel= "noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
   Heroku
