@@ -19,7 +19,7 @@
   Boostrap
   <a href="https://www.w3schools.com /css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt= "css3" width="40" height="40"/> </a>
   CSS3
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.Pm54is2vUG2prSTfXHqaDwAAAA?w=115&h=120&c=7&r=0&o=5&pid=1.7" alt="express" width="40" height="40"/></a>
   Express
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   GIT
@@ -42,6 +42,6 @@
   React
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
   Redux
- <a href="https://reactnative.dev/docs/getting-started" target="_blank" rel="noreferrer"> <img src="https://www.bing.com/th?id=OIP.IYKaDxaoIwiMy96ORPtUhQAAAA&w=90&h=100&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" alt="react native" width="40" height="40"/> </a>
+ <a href="https://reactnative.dev/docs/getting-started" target="_blank" rel="noreferrer"> <img src="https://toppng.com/public/uploads/thumbnail/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994bz4gmmu3qd.png" alt="react native" width="40" height="40"/> </a>
   React Native
  </p></div>
