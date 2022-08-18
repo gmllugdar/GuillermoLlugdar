@@ -19,9 +19,9 @@
   Boostrap
   <a href="https://www.w3schools.com /css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt= "css3" width="40" height="40"/> </a>
   CSS3
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.fASRfi5Gh3iNaJ5ejpxRmgHaC9?w=283&h=139&c=7&r=0&o=5&pid=1.7" alt="express" width="40" height="40"/></a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.BLvUKx6QMIOl5MSPs8tgzwAAAA?w=131&h=150&c=7&r=0&o=5&pid=1.7" alt="express" width="40" height="40"/></a>
   Express
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.BLvUKx6QMIOl5MSPs8tgzwAAAA?w=131&h=150&c=7&r=0&o=5&pid=1.7" alt="git" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://logos-download.com/wp-content/uploads/2021/01/Git_Logo-136x136.png" alt="git" width="40" height="40"/></a>
   GIT
   <a href="https://heroku.com" target="_blank" rel= "noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
   Heroku
