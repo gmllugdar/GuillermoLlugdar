@@ -1,6 +1,6 @@
 <h1 align="center">hola 👋, Soy Guillermo Matias Llugdar</h1>
-<p align="center" background:"white">
- <a href="https://git.io/typing-svg">
+<p align="center" >
+ <a background:"white">
     <img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&color=%FD7014&size=30&center=true&lines=Hola%2C+Mundo+%F0%9F%8C%8E;Full+Stack+Developer+;la+Ayuda+Que+Buscas+%F0%9F%91%8B+">
   </a>
  </p>
