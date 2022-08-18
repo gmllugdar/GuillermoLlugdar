@@ -9,8 +9,8 @@
 
 <h3 align="center">Conéctate conmigo:</h3>
 <p align="center">
-<a href=»mailto:gmllugdar@gamil.com» target="blank"><img align= "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" width="40" height="40" </a> 
- <a href="https://linkedin.com/in/guillermollugdar-dev" target="blank"><img align= "center" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.jpg" alt="" width="40" height="40" </a> 
+<a href=»mailto:gmllugdar@gamil.com» target="blank"><img align= "center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" alt="" width="40" height="40" </a> 
+ <a href="https://linkedin.com/in/guillermollugdar-dev" target="blank"><img align= "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" width="40" height="40" </a> 
 </p>
 
 <h3 align="left">herramientas:</h3>
