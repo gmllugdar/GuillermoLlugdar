@@ -9,7 +9,7 @@
 
 <h3 align="center">Conéctate conmigo:</h3>
 <p align="center">
-<a href=»mailto:gmllugdar@gamil.com» target="blank"><img align= "center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" alt="" width="40" height="40" </a> 
+<a href=»mailto:gmllugdar@gamil.com» target="blank"><img align= "center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1280px-Gmail_Icon_%282013-2020%29.svg.png" alt="" width="40" height="40" </a> 
  <a href="https://linkedin.com/in/guillermollugdar-dev" target="blank"><img align= "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" width="40" height="40" </a> 
 </p>
 
