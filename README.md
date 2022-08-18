@@ -1,15 +1,15 @@
 <h1 align="center">hola 👋, Soy Guillermo Matias Llugdar</h1>
-<p align="center">
+<p align="center" background:"white">
  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&color=%FD7014&size=30&center=true&lines=Hola%2C+Mundo+%F0%9F%8C%8E;Full+Stack+Developer+;la+Ayuda+Que+Buscas+%F0%9F%91%8B+">
   </a>
  </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danidehierro&label=Profile%20views&color=0e75b6&style=flat" alt="danidehierro" /> <img src="https://i.pinimg.com/originals/6a/e6/de/6ae6debded140059005af325ff032117.gif" alt="not img" width="40" height="40"/>  </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GuillermoLlugdar&label=Profile%20views&color=0e75b6&style=flat" alt="GuillermoLlugdar" /> <img src="https://i.pinimg.com/originals/6a/e6/de/6ae6debded140059005af325ff032117.gif" alt="not img" width="40" height="40"/>  </p>
 
 <h3 align="center">Conéctate conmigo:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/guillermollugdar-dev" target="blank"><img align= "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/en/eric-daniel-brianso" width="40" height="40" </a> 
+<a href="https://linkedin.com/in/guillermollugdar-dev" target="blank"><img align= "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/en/guillermollugdar-dev" width="40" height="40" </a> 
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
